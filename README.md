@@ -11,17 +11,16 @@ Meu espaço dev ✨ mostrando quem eu sou, o que faço e o que estou aprendendo 
 
 ### 🙋‍♀️ Sobre mim
 
-- 🎓 Estudante de Ciência da Computação no CEUB  
-- 🎮 Amo tecnologia, jogos e progamação!
-- 👩‍💻 Sempre aprendendo e crescendo 💡
-- ⌛ Autêntica e comprometida com meu futuro!
-  
+- 🎓 Estudante de Ciência da Computação no CEUB, 3° semestre 
+- 🎮 Amo tecnologia, quebra-cabeças e progamação!
 ---
 ### 🚀 Hard Skills
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Inglês B2](https://img.shields.io/badge/Inglês-B2%20%7C%20Intermediário-blue?style=for-the-badge)
 ![Redes de Computadores](https://img.shields.io/badge/Redes%20de%20Computadores-%F0%9F%93%B6%20%7C%20Networking-8A2BE2?style=for-the-badge)
 
@@ -34,9 +33,6 @@ Meu espaço dev ✨ mostrando quem eu sou, o que faço e o que estou aprendendo 
 - Bom relacionamento interpessoal             -  Inteligência emocional
 
 ---
-### 💻 GitHub em ação
-
-![Sabrinna's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabrinnaLouise&show_icons=true&theme=tokyonight)
 
 ![Profile views](https://komarev.com/ghpvc/?username=SabrinnaLouise&color=blueviolet)
 
