@@ -37,7 +37,7 @@ Meu espaço dev ✨ mostrando quem eu sou, o que faço e o que estou aprendendo 
 ![Profile views](https://komarev.com/ghpvc/?username=SabrinnaLouise&color=blueviolet)
 
 ### 💌 Contato
-📧 sabrinna.fernandes@sempreceub.com  
+📧 sabrinnalouisecf@gmail.com  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://br.linkedin.com/in/sabrinna-louise-cortes-fernandes-6aabb5290)
 Aproveite e acesse o site: https://sabrinnalouise.github.io/Minha-Pessoa/
 
